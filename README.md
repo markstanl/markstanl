@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @markstanl
+- 🎓 I am an undergraduate student at UW-Madison
+- 🖥️ I'm studying computer science and math
+- 👀 I’m interested in AI, Web Development, being a good person
+- 🌱 I’m currently learning web development, with an interest in the front
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy philosophizing
