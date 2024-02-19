@@ -1,8 +1,8 @@
 # 👋 Hey, I'm @markstanl
-🎓 - I'm a first-year student at UW-Madison studying math and cs  
-💻 - Currently, I'm leading a team of developers to make an AI-powered dining hall meal planner for UW students
-🧠 - I'm currently learning web development, specializing in front-end but I wish to move to full-stack
-📆 - In the future, I wish to learn more about AI and data analysis
+🎓 - I'm a first-year student at UW-Madison studying math and cs    
+💻 - Currently, I'm leading a team of developers to make an AI-powered dining hall meal planner for UW students  
+🧠 - I'm currently learning web development, specializing in front-end but I wish to move to full-stack  
+📆 - In the future, I wish to learn more about AI and data analysis  
 
 
 ## 🌐 Socials:
