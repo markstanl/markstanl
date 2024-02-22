@@ -3,6 +3,7 @@
 💻 - Currently, I'm leading a team of developers to make an AI-powered dining hall meal planner for UW students  
 🧠 - I'm currently learning web development, specializing in front-end but I wish to move to full-stack  
 📆 - In the future, I wish to learn more about AI and data analysis  
+📖 - Off the computer, I play the Euphonium and dabble in Philosophy
 
 
 ## 🌐 Socials:
