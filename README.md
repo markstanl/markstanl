@@ -19,6 +19,9 @@
 ## [Check out my website](https://www.markstanl.com/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=markstanl&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=markstanl&icon=0&color=3)](https://visitcount.itsvg.in)  
+
+![Generated Image](http://54.242.56.206:4000/generate_image)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
