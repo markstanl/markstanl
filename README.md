@@ -16,10 +16,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=markstanl&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=markstanl&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## [Check out my website](https://www.markstanl.com/)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=markstanl&icon=0&color=3)](https://visitcount.itsvg.in)  
+
+# ✍️ Random Philosophical Quote
 
 ![Generated Image](http://54.242.56.206:4000/generate_image?timestamp=<current_timestamp>)
 
