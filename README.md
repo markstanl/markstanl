@@ -13,7 +13,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,threejs,html,css" />
-    <img src="https://skillicons.dev/icons?i=java,py,tensorflow" />
+  </a>
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,py,tensorflow" />
   </a>
 </p>
 # 📊 GitHub Stats:
