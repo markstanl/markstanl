@@ -14,6 +14,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,threejs,html,css" />
   </a>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,py,tensorflow" />
   </a>
