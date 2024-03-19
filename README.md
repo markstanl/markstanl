@@ -12,7 +12,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,threejs,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs, nodejs,js,ts,threejs,html,css" />
   </a>
 </p>
 # 📊 GitHub Stats:
