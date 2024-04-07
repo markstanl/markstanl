@@ -28,7 +28,7 @@
   
 # ✍️ Random Philosophical Quote
 
-![Generated Image](http://147.182.254.93:5000/generate_image?theme=merko)
+![Generated Image](http://147.182.254.93:8000/generate_image?theme=merko)
 
 
 
