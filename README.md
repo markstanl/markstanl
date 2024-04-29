@@ -5,10 +5,6 @@
 📆 - In the future, I wish to learn more about AI and data analysis  
 📖 - Off the computer, I play the Euphonium and dabble in Philosophy
 
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mark-stanley-ba6996282/) 
-
 # 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
