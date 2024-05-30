@@ -1,9 +1,9 @@
 # 👋 Hey, I'm @markstanl
 🎓 - I'm a second-year student at UW-Madison studying math and cs    
 💻 - Currently, I'm working as a freelance web developer and accepted a role as a software technical lead for the Wisconsin Messenger
-🧠 - I'm currently learning data analysis as a stepping stone for getting into machine learning 
-📆 - In the future, I wish to finish a machine learning course, and learn about large language models
-📖 - Off the computer, I play the Euphonium and dabble in Philosophy
+🧠 - I'm currently learning data analysis as a stepping stone for getting into machine learning   
+📆 - In the future, I wish to finish a machine learning course, and learn about large language models  
+📖 - Off the computer, I play the Euphonium and dabble in Philosophy  
 
 # 💻 Tech Stack
 <p align="center">
