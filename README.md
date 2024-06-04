@@ -8,7 +8,7 @@
 # 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express,ts,threejs" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,ts,tailwind,threejs" />
   </a>
 </p>
 <p align="center">
