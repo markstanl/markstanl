@@ -8,12 +8,12 @@
 # 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express,ts,tailwind,threejs" />
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,express,ts,tailwind,threejs" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,py,tensorflow" />
+      <img src="https://skillicons.dev/icons?i=java,py,pytorch,tensorflow,sklearn" />
   </a>
 </p>
 
