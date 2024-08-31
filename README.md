@@ -1,7 +1,7 @@
 # 👋 Hey, I'm @markstanl
 🎓 - I'm a second-year student at UW-Madison studying math and cs    
 💻 - Currently, I'm working as a software technical lead for the Wisconsin Messenger  
-🧠 - I'm currently learning data machine learning fundamentals, and NLP on the side   
+🧠 - I'm currently learning machine learning fundamentals, and NLP on the side   
 📆 - In the future, I wish to crack into deep learning  
 📖 - Off the computer, I play the Euphonium and dabble in Philosophy  
 
