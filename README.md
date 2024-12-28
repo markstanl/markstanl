@@ -1,6 +1,6 @@
 # 👋 Hey, I'm @markstanl
 🎓 - I'm a second-year student at UW-Madison studying math and cs    
-💻 - Currently, I'm working as a software technical lead for the Wisconsin Messenger  
+💻 - Currently, I'm working a lichess-like website for ultimate tic tac toe
 🧠 - I'm currently learning machine learning fundamentals, and NLP on the side   
 📆 - In the future, I wish to crack into deep learning  
 📖 - Off the computer, I play the Euphonium and dabble in Philosophy  
