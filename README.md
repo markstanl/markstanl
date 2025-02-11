@@ -1,6 +1,6 @@
 # 👋 Hey, I'm @markstanl
 🎓 - I'm a second-year student at UW-Madison studying math and cs    
-💻 - Currently, I'm working a lichess-like website for ultimate tic tac toe  
+💻 - Currently, I'm working on some bots for ultimate tic tac toe  
 🧠 - I'm currently learning machine learning fundamentals, and NLP on the side   
 📆 - In the future, I wish to crack into deep learning  
 📖 - Off the computer, I play the Euphonium and dabble in Philosophy  
@@ -19,7 +19,7 @@
 
 # 📊 GitHub Stats  
 ![](https://github-readme-stats-seven-rust-69.vercel.app/api?username=markstanl&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&hide=contribs&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=markstanl&theme=tokyonight&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=markstanl&theme=tokyonight&hide_border=false)<br/> -->
 ![](https://github-readme-stats-seven-rust-69.vercel.app/api/top-langs/?username=markstanl&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 # [✍️ Daily Philosophical Quote](https://github.com/markstanl/Philosophical-Quotes-API)
