@@ -1,19 +1,24 @@
 # 👋 Hey, I'm @markstanl
-🎓 - I'm a second-year student at UW-Madison studying math and cs    
+🎓 - I'm a second-year student at UW-Madison studying math, cs, and philosophy  
 💻 - Currently, I'm working on some bots for ultimate tic tac toe  
-🧠 - I'm currently learning machine learning fundamentals, and NLP on the side   
-📆 - In the future, I wish to crack into deep learning  
-📖 - Off the computer, I play the Euphonium and dabble in Philosophy  
+🧠 - I'm currently learning about advanced computer vision techniques   
+📆 - In the future, I wish to hone in on some nlp tasks  
+📖 - Off the computer, I play the euphonium and enjoy rock climbing
 
 # 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,express,ts,tailwind,threejs" />
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,express,ts,tailwind,threejs,docker" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,py,pytorch,fastapi,tensorflow,sklearn" />
+      <img src="https://skillicons.dev/icons?i=py,pytorch,anaconda,tensorflow,latex,matlab" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,c,cpp,aws" />
   </a>
 </p>
 
