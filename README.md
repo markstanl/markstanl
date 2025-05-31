@@ -1,6 +1,6 @@
 # 👋 Hey, I'm @markstanl
 🎓 - I'm a second-year student at UW-Madison studying math, cs, and philosophy  
-💻 - Currently, I'm working on some bots for ultimate tic tac toe  
+💻 - Currently, I'm working at C-Motive as an SDE intern
 🧠 - I'm currently learning about advanced computer vision techniques   
 📆 - In the future, I wish to hone in on some nlp tasks  
 📖 - Off the computer, I play the euphonium and enjoy rock climbing
