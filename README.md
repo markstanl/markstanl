@@ -1,24 +1,24 @@
 # 👋 Hey, I'm @markstanl
 🎓 - I'm a rising junior at UW-Madison studying math, cs, and philosophy  
-💻 - Currently, I'm working at C-Motive as an SDE intern  
+💻 - Currently, I'm working at C-Motive as a ML intern  
 🧠 - I'm currently taking the deep learning coursera course      
 📆 - In the future, I wish to hone in on some nlp tasks  
 📖 - Off the computer, I play the euphonium and enjoy rock climbing
 
 # 💻 Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,express,ts,tailwind,threejs,docker" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=reactjs,vite,nextjs,expressjs,typescript,tailwindcss,threejs,docker" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,pytorch,anaconda,tensorflow,latex,matlab" />
+  <a href="https://github.com/syvixor/skills-icons">
+      <img src="https://skills.syvixor.com/api/icons?i=python,pytorch,anaconda,tensorflow,huggingface" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,c,cpp,aws" />
+  <a href="https://github.com/syvixor/skills-icons">
+      <img src="https://skills.syvixor.com/api/icons?i=java,c,cpp,latex" />
   </a>
 </p>
 
