@@ -1,6 +1,6 @@
 # 👋 Hey, I'm @markstanl
 🎓 - I'm a rising junior at UW-Madison studying math, cs, and philosophy  
-💻 - Currently, I'm working at C-Motive as a ML intern  
+💻 - Currently, I'm working at nostomania as an SWE intern  
 🧠 - I'm currently taking the deep learning coursera course      
 📆 - In the future, I wish to hone in on some nlp tasks  
 📖 - Off the computer, I play the euphonium and enjoy rock climbing
