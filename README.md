@@ -1,7 +1,7 @@
 # 👋 Hey, I'm @markstanl
 🎓 - I'm a junior at UW-Madison studying cs, math, and philosophy  
 💻 - Currently, I'm doing CV research  
-🧠 - I'm currently taking the deep learning coursera course      
+🧠 - I'm loving my nlp course      
 📆 - In the future, I wish to hone in on some nlp tasks  
 📖 - Off the computer, I play the euphonium and enjoy rock climbing
 
