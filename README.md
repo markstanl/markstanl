@@ -1,19 +1,18 @@
 # 👋 Hey, I'm @markstanl
 🎓 - I'm a junior at UW-Madison studying cs, math, and philosophy  
-💻 - Currently, I'm doing CV research  
-🧠 - I'm loving my nlp course      
-📆 - In the future, I wish to hone in on some nlp tasks  
+💻 - Currently, I'm doing ai research  
+🧠 - I'm loving my nlp course       
 📖 - Off the computer, I play the euphonium and enjoy rock climbing
 
 # 💻 Tech Stack
 <p align="center">
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills.syvixor.com/api/icons?i=reactjs,vite,nextjs,expressjs,typescript,tailwindcss,threejs,docker" />
+      <img src="https://skills.syvixor.com/api/icons?i=python,pytorch,anaconda,tensorflow,huggingface" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/syvixor/skills-icons">
-      <img src="https://skills.syvixor.com/api/icons?i=python,pytorch,anaconda,tensorflow,huggingface" />
+    <img src="https://skills.syvixor.com/api/icons?i=reactjs,vite,nextjs,expressjs,typescript,tailwindcss,threejs,docker" />
   </a>
 </p>
 <p align="center">
