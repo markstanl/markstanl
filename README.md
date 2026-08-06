@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills.syvixor.com/api/icons?i=reactjs,vite,nextjs,expressjs,typescript,tailwindcss,threejs,docker" />
+    <img src="https://skills.syvixor.com/api/icons?i=nextjs,typescript,tailwindcss,threejs,docker" />
   </a>
 </p>
 <p align="center">
