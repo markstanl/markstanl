@@ -1,7 +1,7 @@
 # 👋 Hey, I'm @markstanl
-🎓 - I'm a junior at UW-Madison studying cs, math, and philosophy  
+🎓 - I'm a rising senior at UW-Madison studying cs, math, and philosophy  
 💻 - Currently, I'm doing ai research  
-🧠 - I'm loving my nlp course       
+🧠 - I'm learning lots about ai safety         
 📖 - Off the computer, I play the euphonium and enjoy rock climbing
 
 # 💻 Tech Stack
